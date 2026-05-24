@@ -1,0 +1,9 @@
+{
+  "id": "penisfun",
+  "name": "DEATH",
+  "prefix": "xmpl",
+  "version": "1.0.0",
+  "author": ["Gal"],
+  "description": "Image-free version of Joker: The Sequel",
+  "main_file": "main.lua"
+}
